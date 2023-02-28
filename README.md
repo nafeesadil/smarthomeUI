@@ -1,5 +1,8 @@
 # smart_home_ui
 
+![Screenshot_20230225_225641](https://user-images.githubusercontent.com/17587304/221726319-1ec27786-8a7c-48bf-8159-cdb4096b521f.png)
+
+
 A new Flutter project.
 
 ## Getting Started
